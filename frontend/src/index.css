@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background: white;
+    font-family: system-ui;
+    display: flex;
+    place-content: center;
+    min-height: 100vh;
+}
+
+.app-container {
+    width: 700px;
+}
+
+h1{
+    text-align: center;
+}
